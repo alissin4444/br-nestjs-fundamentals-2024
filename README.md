@@ -1,25 +1,60 @@
-# NestJS do Zero com TypeORM, Mongoose, Prisma e Swagger
-Esse curso aborda os principais pontos do NestJS para criação de projetos de backend Node.js, Javascript e Typescript.
-![image](https://github.com/user-attachments/assets/21c7f107-692e-4709-bf1e-5041c1e00df0)
+<p align="center">
+  <a href="https://aluiziodeveloper.com.br/">
+    <img alt="Aluizio Developer" src="https://aluiziodeveloper.com.br/assets/img/icon.png" width="200" />
+  </a>
+</p>
+<h2 align="center">
+Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
+</h2>
 
-Nele foi aprendido
-- [x]  Seção 1: Introdução e manipulação dos dados
-- [x]  Seção 2: Trabalhando com TypeORM no NestJS
-- [x]  Seção 3: Migrando de bases de dados com TypeORM
-- [x]  Seção 5: Introdução aos Testes Automatizados com NestJs e Jest
-- [x]  Seção 6: Visão Geral Sobre o Módulo de Configurações Globais do NestJs
-- [x]  Seção 7: Trabalhando com Testes End-to-End ou Ponta a Ponta
-- [x]  Seção 8: MongoDB e Mongoose no NestJS
-- [x]  Seção 9: Trabalhando com o Prisma no NestJS
-- [x]  Seção 10: Módulo de Usuários do Projeto prisma-api
-- [x]  Seção 11: Customizando o Tratamento de Erros no NestJS
-- [x]  Seção 12: Módulo de Posts do Projeto prisma-api
-- [x]  Seção 13: Introdução ao Swagger no NestJS
-- [x]  Seção 14: Deploy da API NestJS com o Prisma CMS no Heroku
+## Curso de Fundamentos do Framework NestJS
 
-Não se esqueça de colocar a env do projeto
+Seja muito bem-vindo e bem-vinda ao [Curso de Fundamentos do Framework Web NestJS](https://www.udemy.com/course/nestjs-do-zero/?referralCode=E243D33202CF4A06C488). Este repositório refere-se ao projeto desenvolvido durante o curso.
 
-rode npm run start:dev para startar a aplicação
+## Descrição
 
-[Insomnia_2024-10-07.zip](https://github.com/user-attachments/files/17285332/Insomnia_2024-10-07.zip)
+Esse curso tem como objetivo cobrir os principais pontos da estrutura do NestJS para que você possa a partir disso, começar a criar os seus projetos de backend e explorar exatamente aquilo que existe como o diferencial no NestJS.
 
+O curso estará estruturado de forma incremental, com uma sequencia preparada para que você evolua gradativamente no aprendizado com o NestJS, tirando todo o proveito disso.
+
+## Rodando a aplicação no seu PC
+
+Faça um clone deste repositório e instale no seu ambiente de desenvolvimento usando o seguinte comando no seu terminal (escolha um diretório apropriado):
+
+```shell
+git clone https://github.com/aluiziodeveloper/nestjs-fundamentals-2023.git
+```
+
+Após clonar o conteúdo do repositório, acesse o diretório criado e execute os comandos abaixo para criar e executar os containers da aplicação e do banco de dados PostgreSQL.
+
+> IMPORTANTE: Se você for executar esse projeto em PC com Windows, use uma instalação Linux no seu Windows através do WSL.
+
+```shell
+# Entrar no diretório do projeto
+cd nestjs-fundamentals-2023
+
+# Instalar as dependências
+npm install
+
+# Rodar o BD Postgres com o Docker Compose
+docker-compose up --build
+
+# Iniciar a aplicação
+npm run start:dev
+```
+
+Após essa instalação a aplicação estará em execução no endereço `http://localhost:3000`.
+
+## Redes Sociais
+
+[Site Aluizio Developer](https://aluiziodeveloper.com.br)
+
+[Perfil Udemy](https://www.udemy.com/user/jorge-aluizio-alves-de-souza/)
+
+[Cursos Gratuitos](https://letsgoahead.com.br/)
+
+[YouTube](https://www.youtube.com/jorgealuizio)
+
+[Servidor no Discord](https://discord.gg/3J87BMz5fD)
+
+[LinkedIn](https://www.linkedin.com/in/jorgealuizio/)
