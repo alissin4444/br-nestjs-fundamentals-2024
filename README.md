@@ -15,7 +15,6 @@ Nele foi aprendido
 - [x]  Seção 11: Customizando o Tratamento de Erros no NestJS
 - [x]  Seção 12: Módulo de Posts do Projeto prisma-api
 - [x]  Seção 13: Introdução ao Swagger no NestJS
-- [x]  Seção 14: Deploy da API NestJS com o Prisma CMS no Heroku
 
 Não se esqueça de colocar a env do projeto
 
