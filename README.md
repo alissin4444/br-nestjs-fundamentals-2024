@@ -9,12 +9,12 @@ Nele foi aprendido
 - [x]  Seção 5: Introdução aos Testes Automatizados com NestJs e Jest
 - [x]  Seção 6: Visão Geral Sobre o Módulo de Configurações Globais do NestJs
 - [x]  Seção 7: Trabalhando com Testes End-to-End ou Ponta a Ponta
-- [x]  Seção 8: MongoDB e Mongoose no NestJS
-- [x]  Seção 9: Trabalhando com o Prisma no NestJS
-- [x]  Seção 10: Módulo de Usuários do Projeto prisma-api
-- [x]  Seção 11: Customizando o Tratamento de Erros no NestJS
-- [x]  Seção 12: Módulo de Posts do Projeto prisma-api
-- [x]  Seção 13: Introdução ao Swagger no NestJS
+- []  Seção 8: MongoDB e Mongoose no NestJS
+- []  Seção 9: Trabalhando com o Prisma no NestJS
+- []  Seção 10: Módulo de Usuários do Projeto prisma-api
+- []  Seção 11: Customizando o Tratamento de Erros no NestJS
+- []  Seção 12: Módulo de Posts do Projeto prisma-api
+- []  Seção 13: Introdução ao Swagger no NestJS
 
 Não se esqueça de colocar a env do projeto
 
